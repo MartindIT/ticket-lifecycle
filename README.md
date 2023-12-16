@@ -45,10 +45,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 **As you change the properties of the ticket it shows what changes have been made in the history thread where other agents can see.**
 
 ![image](https://github.com/MartindIT/ticket-lifecycle/assets/151476834/0283f845-1887-4f1c-9625-84f750a85499)
+**4.) Now when you back out onto the Ticket list you can see how differnet the ticket looks from the others and how we changed and altered this ticket to be set to Jane Doe and priority level is high**
+
 ![image](https://github.com/MartindIT/ticket-lifecycle/assets/151476834/f5e92bbf-67e1-4b79-9f8d-74a004333edd)
 
-ww
+**5.) From here you can resolve this ticket we created by submitting a response and finally close the ticket.**
 
 ![image](https://github.com/MartindIT/ticket-lifecycle/assets/151476834/74ee4afe-ac00-400c-9b29-986709255430)
 ![image](https://github.com/MartindIT/ticket-lifecycle/assets/151476834/eeff5bf4-dae5-406a-8486-1b578a8e1672)
-And once the ticket is resolved you can check and see in the closed ticket tab and see more closed tickets from colleges and get an intution on how tickets get resolved and build up the corage for yourself and just repeat the steps with the other tickets and that will be all from This osTicket project, really learned how to go through a ticketing system from a users perspective and a helpdesk agent
+**6.) Once the ticket is resolved you can check and see it in the closed ticket tab and see more closed tickets from colleagues and get an intution on how tickets get resolved and build up the courage for yourself and just repeat the steps with the other tickets and that will be all from This osTicket project, I really learned how to go through a ticketing system from a users perspective and as a helpdesk agent.**
+
