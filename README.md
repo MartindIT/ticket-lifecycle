@@ -6,9 +6,6 @@
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -32,27 +29,20 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 ![image](https://github.com/MartindIT/ticket-lifecycle/assets/151476834/3993b96a-8a2b-4ad7-bfb6-5637c777dbf0)
 ![image](https://github.com/MartindIT/ticket-lifecycle/assets/151476834/f666d37c-3f19-40b3-9121-0103b6e8f539)
 ![image](https://github.com/MartindIT/ticket-lifecycle/assets/151476834/133b974a-ea0a-41c7-875d-c062e66b5d03)
+**1.) Once we enter the End User URL for Osticket we will be brought to the front page of support center and we will click on open a new ticket from there we will put in the fake users information such as "Karen" here for instance and make up a fake scenrio and click on the appropriate help topic and submit our ticket.**
 
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
 
 ![image](https://github.com/MartindIT/ticket-lifecycle/assets/151476834/ad452144-35dc-4a62-b196-8b4d296b1187)
 ![image](https://github.com/MartindIT/ticket-lifecycle/assets/151476834/acb3534f-5e3c-4a30-8903-fc2fc90feddd)
+**2.) Then after that we will log into one of Agents we created in this instance "Jane Doe" and check our open Tickets!!**
 
-
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
 
 ![image](https://github.com/MartindIT/ticket-lifecycle/assets/151476834/21ed9218-2e52-45ef-b5c8-e57ba664e1c2)
 ![image](https://github.com/MartindIT/ticket-lifecycle/assets/151476834/323f3cd5-d2bb-4a5f-8c22-af96bd3952b1)
 ![image](https://github.com/MartindIT/ticket-lifecycle/assets/151476834/481df537-b510-42b3-9674-5af6ceb30632)
+**3.) Click and open a ticket for this instance I chose "Entire Mobile Banking is Down" and make sure to change SLA, Deparment and severity of the Ticket before begining to resolve the ticket.** 
 
-
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+**As you change the properties of the ticket it shows what changes have been made in the history thread where other agents can see.**
 
 ![image](https://github.com/MartindIT/ticket-lifecycle/assets/151476834/0283f845-1887-4f1c-9625-84f750a85499)
 ![image](https://github.com/MartindIT/ticket-lifecycle/assets/151476834/f5e92bbf-67e1-4b79-9f8d-74a004333edd)
