@@ -55,3 +55,4 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 ![image](https://github.com/MartindIT/ticket-lifecycle/assets/151476834/eeff5bf4-dae5-406a-8486-1b578a8e1672)
 **6.) Once the ticket is resolved you can check and see it in the closed ticket tab and see more closed tickets from colleagues and get an intution on how tickets get resolved and build up the courage for yourself and just repeat the steps with the other tickets and that will be all from This osTicket project, I really learned how to go through a ticketing system from a users perspective and as a helpdesk agent.**
 
+**This Project showed me how to create a Ticketing system from scratch using Azure Virtual machines and as a admin I configured Agents that can respond to tickets that Users create and help topics which Users can choose from, Also learned how SLA are used and seen from Agents perspective within Osticket.**
